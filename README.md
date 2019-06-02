@@ -1,2 +1,2 @@
 # MsiReader
-Component to reads properties of a MSI file
+Component to read the properties of an MSI file.
